@@ -18,8 +18,8 @@ I'm a Full-Stack Developer living in Malaysia and I'm currently working for [**S
 
 **My Side Projects**
 
-* [**🏔 Everest**](https://www.tryeverest.app): This is a social-network / resource aggregator that I made. It's open source and still under (in)active development. Everest, in a nutshell, is Pinterest married with Instagram.
-* **💳 Lazywallet**: A little expense manager I'm working on in an effort to learn React and Nest. Most expense managers I've used on the Play Store are pretty bad. I hope to make something that's **not** bad.
+* 🏔 Everest: This is a social-network / resource aggregator that I made. In a nutshell, is Pinterest married with Instagram. Sadly, it is no longer in development.
+* [**💳 idontwannalogtime**](https://idontwannalogtime-frontend.web.app/): A time logger I made for myself (and use daily!). It is in active development.
 
 **What I do outside of software engineering**
 
