@@ -12,7 +12,7 @@ I'm a Full-Stack Developer living in Malaysia and I'm currently working for [**S
 
 * Vue
 * Nest
-* MSSQL
+* Postgres
 
 **🤡 I know a lot of nothing.**
 
